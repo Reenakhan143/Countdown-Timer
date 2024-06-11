@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "init": "^0.1.2",
+    "inquirer": "^9.2.23"
+  },
+  "name": "reena32i-count-down-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
